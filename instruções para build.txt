@@ -1,0 +1,12 @@
+Primeiro instale as dependencias:
+npm -i ou npm install
+
+Instale as dependencias globalmente para compilar:
+npm install -g ts-node typescript
+
+Transpile a biblioteca:
+tsc src/index.ts
+
+Agora só upar ela
+npm login
+npm publish
